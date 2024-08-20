@@ -1,0 +1,10 @@
+{
+    "video_id": "",
+    "quality": "source",
+    "start_time": "00:00:00",
+    "end_time": "00:00:00",
+    "output_dir": "",
+    "file_format": "mp4",
+    "split_duration": 300,
+    "merge_option": "无"
+}
